@@ -1,0 +1,6 @@
+Naam; Woonplaats; Afstand
+Peter; Lhee; 20,6
+Pim; Capelle; 23,3
+Nando; Zoetermeer; 10,8
+Charlotte; Zwolle; 2,9
+Henk; Berkenwoude; 123,0
