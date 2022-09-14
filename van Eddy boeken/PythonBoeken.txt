@@ -1,0 +1,86 @@
+https://pythonbooks.org/free-books/
+
+
+' Test-Driven Development with Python
+https://www.obeythetestinggoat.com/pages/book.html#toc
+
+
+'  Automate the boring stuff with Python
+https://automatetheboringstuff.com/
+
+
+' Learn more Python 3 the hard way
+https://learncodethehardway.org/more-python-book/
+
+
+' Django
+https://masteringdjango.com/django-tutorial-for-beginners/
+https://masteringdjango.com/mastering-django-tutorials/
+
+
+' The flask mega tutorial
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+
+' Natural language processing with Python
+https://www.nltk.org/book/
+
+
+http://programmingcomputervision.com/
+https://github.com/jesolem/PCV
+
+
+' Think Bayes
+https://pythonbooks.org/think-bayes-bayesian-statistics-in-python/
+https://github.com/AllenDowney/ThinkBayes2
+
+
+' Cracking Codes with Python
+https://pythonbooks.org/cracking-codes-with-python-an-introduction-to-building-and-breaking-ciphers/
+https://inventwithpython.com/cracking/
+
+
+' Beyond the Basic Stuff with Python
+https://pythonbooks.org/beyond-the-basic-stuff-with-python-best-practices-for-writing-clean-code/
+https://inventwithpython.com/beyond/
+
+
+' The hitchhiker's guide to Python
+https://pythonbooks.org/the-hitchhikers-guide-to-python-best-practices-for-development/
+https://docs.python-guide.org/
+
+
+' Invent your own computer games with Python
+https://inventwithpython.com/
+https://pythonbooks.org/invent-your-own-computer-games-with-python/
+
+
+' Think Stats
+https://pythonbooks.org/think-stats-exploratory-data-analysis/
+
+
+https://pythonbooks.org/python-for-everybody-exploring-data-in-python-3/
+
+
+https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist/
+https://greenteapress.com/wp/think-python-2e/
+
+' Python Data Science Handbook
+https://www.onlineprogrammingbooks.com/python-data-science-handbook/
+
+
+' Modeling and Simulation in Python
+https://www.onlineprogrammingbooks.com/modeling-simulation-python/
+https://github.com/AllenDowney/ModSimPy
+
+
+' Modeling and Simulation in Python by Allen B. Downey
+https://allendowney.github.io/ModSimPy/
+
+
+
+https://www.onlineprogrammingbooks.com/scipy-programming-succinctly/
+
+' Dive into Python 3
+https://diveintopython3.net/table-of-contents.html
+
