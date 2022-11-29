@@ -15,7 +15,6 @@ df=pd.read_csv(csvfile, sep=';')
 
 print(df)
 
-
 #re = (df.Perioden == '2017JJ00') | (df.Geslacht == 4000)
 #print (df[re])
 
