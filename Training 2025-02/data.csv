@@ -1,0 +1,8 @@
+id,name,value,comment
+1,abc,23.5,OK
+2,sfd,233.5,OK
+3,abc,23.5,OK
+4,absdc,3.5,error
+5,sdf,5.5,OK
+6,sd,73.5,OK
+17,sd,23.5,error
