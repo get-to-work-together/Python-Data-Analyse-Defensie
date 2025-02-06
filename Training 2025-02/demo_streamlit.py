@@ -33,14 +33,14 @@ ax.set_xlabel('seconds')
 plt.show()
 st.pyplot(fig)
 
-# data = np.vstack([x, y]).transpose()
-# indeces = np.random.choice(data.shape[0], size=10)
-# data = data[indeces]
+data = np.vstack([x, y]).transpose()
+indeces = np.random.choice(data.shape[0], size=10)
+data = data[indeces]
 
-# df = pd.DataFrame({
-#     'x': data[:, 0],
-#     'y': data[:, 1],
-# })
+df = pd.DataFrame({
+    'x': data[:, 0],
+    'y': data[:, 1],
+})
 
-# # print(df)
-# st.dataframe(df)
+# print(df)
+st.dataframe(df)

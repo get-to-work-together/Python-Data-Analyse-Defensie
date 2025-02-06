@@ -7,13 +7,15 @@ import matplotlib.patches as mpatches
 
 import seaborn as sns
 
-# import streamlit as st
+import streamlit as st
+
 
 filename = '/Users/peter/Computrain/_InCompany/Defensie/Python Data Analyse/Opdrachten/datasets/World Bank DataBank World Development Indicators/indicators_selected.csv'
 
 df = pd.read_csv(filename)
 
-year = 2020
+# year = 2020
+year = st.slider('Year', min_value=1974, max_value=2022, value=2022, step=1)
 
 df_year = df[df['Year']==year]
 
@@ -67,4 +69,5 @@ ax.set_axisbelow(True)
 patches = [mpatches.Patch(color=color, label=continent) for continent, color in continent_colors.items()]
 ax.legend(handles=patches)
 
-plt.show()
+# plt.show()
+st.pyplot(fig)
